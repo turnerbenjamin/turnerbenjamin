@@ -1,7 +1,7 @@
 
 
 <h2 align="left">Summary</h2>
-◾ Junior Javascript developer with 2 years’ experience building web applications ◾ Enjoys taking coding courses on Udemy ◾ Currently learning C# 
+◾ Junior Javascript developer with 2 years’ experience building web applications ◾ Enjoys taking coding courses on Udemy ◾ Currently learning Java 
 
 
 <h2 align="left">Languages and Tools:</h2>
