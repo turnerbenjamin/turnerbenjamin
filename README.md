@@ -7,10 +7,14 @@ My passion is puzzles and I developed a love of coding through writing simple pu
 ## Languages and Tools:
 <div align="left" > 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  
 </div>
 
 
